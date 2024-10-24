@@ -3965,7 +3965,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 1832309321}
-  scoreToFinish: 50
+  scoreToFinish: 10
   OnFinishEvent:
     m_PersistentCalls:
       m_Calls:
